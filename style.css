@@ -102,6 +102,7 @@ body {
   background-color: white;
   position: relative;
   border-radius: 6px;
+  box-shadow: 10px 5px 26px;
 }
 
 /* Media queries - Responsive timeline on screens less than 600px wide */
